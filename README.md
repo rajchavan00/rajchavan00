@@ -1,12 +1,46 @@
-# 💫 About Me:
-# Hi there, I'm Raj Chavan 👋 <br><br>### 🎓 Computer Science Student | Pune, India<br>I am a passionate developer focused on building intelligent systems. Currently, I'm working on detecting inauthentic behavior on social media using Machine Learning.<br><br>- 🔭 I’m currently working on **Final Year Project: Malicious Bot Detection**<br>- 🌱 I’m currently learning **Advanced Python & Deep Learning**<br>- ⚡ Fun fact: I maintain a **Daily Python Practice** log!
+<h1 align="center">Hi, I'm Raj 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Pandas+by+day%2C+dreams+of+AGI+by+night;Currently+training+models+to+catch+bots;Powered+by+Python%2C+caffeine%2C+and+curiosity" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-chavan-090189317/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Constant-Concert7227) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ChavanRaj1518) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chavanraj2015@gmail.com) 
+### 🧠 About Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white)
+I'm a Computer Engineering student in Pune who fell in love with the moment a messy spreadsheet turns into a clear insight. I spend my days wrangling data, training models, and occasionally arguing with a dataset until it tells the truth.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🔍 Right now, I'm teaching machines to spot **fake profiles and bot accounts** on social media — basically a digital lie detector.
+- 📊 I recently dug through a 500-row financial dataset for an industry analytics program and found out the "predictive" signal everyone wanted... wasn't really there. Told them anyway. Honesty over hype.
+- 🏏 I once built a model that predicts IPL match winners *live*, ball by ball — because what's data science without a little cricket chaos?
+- 📝 Co-writing a research paper comparing five ML algorithms for bot detection, headed for journal submission.
+- 🛠️ My toolkit: Python, SQL, Power BI, and a healthy obsession with clean, well-labeled charts.
+
+> "In God we trust. Everyone else needs to bring data." — and I'm the one who checks if that data actually holds up.
+
+### ⚙️ What I'm Building With
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rajchavan00&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=rajchavan00&hide_border=true" />
+</p>
+
+### 🔗 Find Me Elsewhere
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/raj-chavan-090189317/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:chavanraj2015@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+<p align="center"><i>Currently debugging a model, a dataset, or my own assumptions — usually all three.</i></p>
